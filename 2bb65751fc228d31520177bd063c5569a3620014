@@ -1,0 +1,1 @@
+{"jobID":"ba549648-d6bb-b171-41b5-f634e4034b18","spec":{"type":"policy","cause":{"Message":"","User":"Michaël Rivet \u003cmrivet@wynd.eu\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
